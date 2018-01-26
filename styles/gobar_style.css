@@ -8511,19 +8511,19 @@ strong {
 
 .footer-down {
   position: relative;
-  padding-bottom: 230px;
-  min-height: 100%;
+  padding-bottom: 0px;
+  min-height: 75%;
   display: table;
   table-layout: fixed;
   width: 100%;
-  height: 100%; }
+  height: 75%; }
 
 #footer {
   padding: 0;
   position: absolute;
   background: white;
   bottom: 0;
-  height: 230px;
+  height: 100px;
   width: 100%;
   z-index: 10;
   -o-box-shadow: 0 -2px 4px 0 rgba(220, 220, 220, 0.5);
