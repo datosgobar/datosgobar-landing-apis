@@ -10341,7 +10341,6 @@ height: 170px;}
   -webkit-box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
   box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
   border-top: #eeeeee solid 1px;
-  margin: 15px;
   overflow: hidden; }
   .dataset-list .dataset-item .dataset-container .dataset-border {
     border-right: solid 8px #999999;
@@ -11801,4 +11800,14 @@ ul.activity {
     max-width: 70px;
   }
 
+
+.centerelement {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.m-top50 {
+  margin-top: 50px;
+}
 /*# sourceMappingURL=gobar_style.css.map */
